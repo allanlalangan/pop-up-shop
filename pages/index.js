@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>La Bodega</title>
+        <title>Pop Up Shop</title>
         <meta name='description' content='Create Next App' />
       </Head>
       <div>
